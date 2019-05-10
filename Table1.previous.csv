@@ -1,0 +1,93 @@
+,year,tool,citation,index,global,local,technology,read.length
+1,2012,Batmis,29,BWT-ST,seed,hamming distance,DNA,No
+2,2009,BFAST,596,hashing,seed,Not specified,DNA,No
+3,2011,Bismark,1332,BWT-FM,Backward Search,backtracking,Bisulfite,No
+4,2012,BLASR,504,BWT-FM,chain of seeds,DP,DNA,Yes
+5,2016,NanoBLASTer:,5,hashing,chain of seeds,DP,DNA,Yes
+6,2002,Blat,6935,hashing,chain of seeds,hamming distance,DNA,No
+7,2009,Bowtie,13637,BWT-FM,Backward Search,backtracking,DNA,No
+8,2012,Bowtie2,13248,BWT-FM,Backward Search,Smith-Waterman,DNA,No
+9,2009,BRAT,62,hashing,seed,hamming distance,Bisulfite,No
+10,2012,BRAT-BW,65,BWT-FM,Backward Search,backtracking,Bisulfite,No
+11,2010,BS-Seeker,213,BWT-FM,Backward Search,backtracking,Bisulfite,No
+12,2013,BS-Seeker2,155,BWT-FM,Backward Search,Smith-Waterman,Bisulfite,No
+13,2009,BSMAP,475,hashing,seed,hamming distance,Bisulfite,No
+14,2009,BWA,17693,BWT-FM,Backward Search,backtracking,DNA,No
+15,2013,BWA-MEM,1825,BWT-FM,chain of seeds,DP,DNA,No
+16,2014,BWA-PSSM,37,BWT-FM,Backward Search,backtracking,DNA,No
+17,2010,BWA-SW,4647,BWT-FM,Backward Search,Smith-Waterman,DNA,No
+18,2008,BWT-SW,142,BWT-FM,Backward Search,DP,DNA,No
+19,2009,CloudBurst,735,hashing,seed,Landau-Vishkin,DNA,No
+20,2015,ContextMap 2,22,NA,NA,NA,RNA-Seq,No
+21,2013,CRAC,60,BWT-FM,seed,Coverage consensus,RNA-Seq,No
+22,2014,CUSHAW3,41,BWT-FM,seed,DP,DNA,No
+23,2017,DART,3,BWT-FM,Backward Search,Needleman-Wunsch,RNA-Seq,No
+24,2011,DynMap,2,hashing,seed,DP,DNA,No
+25,2016,ERNE,7,hashing,seed,hamming distance,DNA,No
+26,2005,Exonerate,1138,hashing,seed,DP,DNA,No
+27,2012,GEM,344,BWT-FM,Backward Search,DP,DNA,No
+28,2009,GenomeMapper,182,hashing,chain of seeds,DP,DNA,No
+29,2005,GMAP,1139,hashing,chain of seeds,DP,DNA,No
+30,2009,GNUMAP,85,hashing,seed,Needleman-Wunsch,DNA,No
+31,2010,GSNAP,1419,hashing,seed,hamming distance,DNA,No
+32,2015,HISAT,1611,BWT-FM,Backward Search,hamming distance,RNA-Seq,No
+33,2015,HISAT2,73,BWT-FM,Backward Search,hamming distance,DNA,No
+34,2014,Hobbes2,20,hashing,seed,union of sets,DNA,No
+35,2014,hpg-Aligner,20,suffix array,seed,Smith-Waterman,DNA,Yes
+36,2014,JAGuaR,17,BWT-FM,Backward Search,backtracking,RNA-Seq,No
+37,2010,MapSplice,774,BWT-FM,Backward Search,hamming distance,RNA-Seq,No
+38,2008,MAQ,2782,hashing,seed,Smith-Waterman,DNA,No
+39,2013,Masai,77,suffix tree,Backward Search,DP,DNA,No
+40,2010,MicroRazerS,41,hashing,seed ,hamming distance,miRNA,No
+41,2009,MOM,52,hashing,seed,Smith-Waterman,DNA,No
+42,2014,MOSAIK,216,hashing,seed,Smith-Waterman,DNA,No
+43,2009,mrFAST,684,hashing,seed,levenshein distance,DNA,No
+44,2010,mrsFAST,258,hashing,seed,hamming distance,DNA,No
+45,2014,mrsFAST-Ultra,37,hashing,seed,hamming distance,DNA,No
+46,2013,NextGenMap,132,hashing,seed,Smith-Waterman,DNA,No
+47,2012,OSA,72,hashing,chain of seeds,Not specified,RNA-Seq,No
+48,2009,PASS,148,hashing,seed,Needleman-Wunsch,DNA,No
+49,2012,Passion,35,hashing,seed,Smith-Waterman,RNA-Seq,No
+50,2009,PerM,124,hashing,chain of seeds,binary search,DNA,No
+51,2008,QPALMA,173,suffix array,seed,Smith-Waterman,RNA-Seq,No
+52,2009,RazerS,177,hashing,seed,DP,DNA,No
+53,2012,RazerS3,101,hashing,seed,DP,DNA,No
+54,2016,rHAT,13,hashing,seed ,DP,DNA,Yes
+55,2008,RMAP,380,hashing,seed,NA,DNA,No
+56,2009,segemehl,421,suffix array,Backward Search,DP,DNA,No
+57,2012,SeqAlto,46,hashing,seed,Needleman-Wunsch,DNA,No
+58,2008,SeqMap,402,hashing,seed,Not specified,DNA,No
+59,2009,SHRiMP,609,hashing,chain of seeds,Smith-Waterman,DNA,No
+60,2011,SHRiMP2,333,hashing,chain of seeds,Smith-Waterman,DNA,No
+61,2009,Slider,65,hashing,seed,Not specified,DNA,No
+62,2010,Slider II,60,hashing,seed,Not specified,DNA,No
+63,2010,Smalt,,hashing,seed,Smith-Waterman,DNA,No
+64,2011,SNAP,107,hashing,seed,DP,DNA,No
+65,2008,SOAP,1939,hashing,seed,Not specified,DNA,No
+66,2009,SOAP2,2826,BWT-FM,seed,Not specified,DNA,No
+67,2011,SOAPSplice,112,BWT-FM,seed,Not specified,RNA-Seq,No
+68,2008,SOCS,119,hashing,seed,Not specified,DNA,No
+69,2012,SplazerS,59,hashing,seed,Not specified,DNA,No
+70,2010,SpliceMap,335,hashing,seed,Not specified,RNA-Seq,No
+71,2013,SRmapper,18,hashing,seed,Not specified,DNA,No
+72,2001,SSAHA,1093,hashing,seed,Not specified,DNA,No
+73,2011,Stampy,880,hashing,seed,Needleman-Wunsch,DNA,No
+74,2013,STAR,6021,suffix array,seed,Smith-Waterman,RNA-Seq,No
+75,2013,Subread,775,hashing,seed,Smith-Waterman,RNA-Seq,No
+76,2010,Supersplat,58,hashing,seed,Not specified,RNA-Seq,No
+77,2009,TopHat,8395,BWT-FM,seed,Not specified,RNA-Seq,No
+78,2013,TopHat 2,6072,BWT-FM,seed,Not specified,RNA-Seq,No
+79,2010,VMATCH,65,suffix array,seed,Not specified,DNA,No
+80,2012,WHAM,58,hashing,seed,Not specified,DNA,No
+81,2011,X-Mate,15,hashing,seed,Not specified,DNA,No
+82,2012,YAHA,44,hashing,seed,Smith-Waterman,DNA,Yes
+83,2008,ZOOM,261,hashing,seed,Not specified,DNA,No
+84,2018,minimap2,153,hashing,seed,Not specified,DNA/RNA-Seq,Yes
+85,2016,minialign,172,hashing,seed,Not specified,DNA,Yes
+86,2016,GraphMap,127,hashing,seed,Not specified,DNA,Yes
+87,2011,LAST,480,suffix array,seed,Not specified,DNA,No
+88,2003,BLASTZ?,1339,hashing,seed,Not specified,DNA,No
+89,2018,NGMLR,71,hashing,seed,Not specified,DNA,Yes
+90,2016,NanoBLASTer,5,hashing,seed,Not specified,DNA,Yes
+91,2018,lordFAST,0,BWT-FM,seed,levenshein distance,DNA,Yes
+92,2018,Magic-BLAST,3,hashing,seed,DP,DNA/RNA-Seq,Yes
