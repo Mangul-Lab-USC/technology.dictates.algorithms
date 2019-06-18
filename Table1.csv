@@ -1,93 +1,95 @@
-Year_of_publication,Number_of_citations,index,global,wrapper,local,chain_of_seeds,technology
-2001,1093,hashing,seed,N,Global,N,DNA
-2002,6935,hashing,seed,N,Non-DP heuristic,Y,DNA
-2003,1339,hashing,seed,Y,Local,N,DNA
-2005,1138,hashing,seed,N,Hamming,N,DNA
-2005,1139,hashing,seed,N,Global,Y,DNA
-2008,142,BWT-FM,Backward Search,N,Local,N,DNA
-2008,2782,hashing,seed,N,Local,N,DNA
-2008,173,suffix array,seed,Y,Local,N,RNA-Seq
-2008,380,hashing,seed,N,Hamming Distance,N,DNA
-2008,402,hashing,seed,N,Non-DP heuristic,N,DNA
-2008,1939,hashing,seed,N,Non-DP heuristic,N,DNA
-2008,119,hashing,seed,N,Rabin–Karp algorithm,N,DNA
-2008,261,hashing,seed,N,local,N,DNA
-2009,596,hashing,seed,N,local,N,DNA
-2009,13637,BWT-FM,Backward Search,N,Hamming Distance,N,DNA
-2009,62,hashing,seed,N,Hamming Distance,N,Bisulfite
-2009,475,hashing,seed,N,Hamming Distance,N,Bisulfite
-2009,17693,BWT-FM,Backward Search,N,local,N,DNA
-2009,735,hashing,seed,N,Landau-Vishkin,N,DNA
-2009,182,hashing,seed,N,Global,Y,DNA
-2009,85,hashing,seed,N,Global,N,DNA
-2009,52,hashing,seed,N,Local,N,DNA
-2009,684,hashing,seed,N,Semi-Global,N,DNA
-2009,148,hashing,seed,N,Global,N,DNA
-2009,124,hashing,seed,N,Hamming Distance,Y,DNA
-2009,177,hashing,seed,N,banded Myres bit vector,N,DNA
-2009,421,suffix array,Backward Search,N,Local,N,DNA
-2009,609,hashing,seed,N,Local,Y,DNA
-2009,65,hashing,seed,N,sparse dynamic programming,N,DNA
-2009,2826,BWT-FM,seed,N,Local,N,DNA
-2009,8395,BWT-FM,seed,Y,Hamming Distance,N,RNA-Seq
-2010,213,BWT-FM,Backward Search,Y,Hamming Distance,N,Bisulfite
-2010,4647,BWT-FM,Backward Search,N,Local,N,DNA
-2010,1419,hashing,seed,N,Non-DP heuristic,N,DNA
-2010,774,BWT-FM,Backward Search,Y,Hamming Distance,N,RNA-Seq
-2010,41,hashing,seed ,N,Hamming Distance,N,miRNA
-2010,258,hashing,seed,N,Hamming Distance,N,DNA
-2010,60,hashing,seed,Y,sparse dynamic programming,N,DNA
-2010,,hashing,seed,N,Local,N,DNA
-2010,335,hashing,seed,Y,Hamming Distance,N,RNA-Seq
-2010,58,hashing,seed,N,No Alignment,N,RNA-Seq
-2010,65,suffix array,seed,Y,Local,N,DNA
-2011,1332,BWT-FM,Backward Search,Y,Hamming Distance,N,Bisulfite
-2011,2,hashing,seed,N,Non-DP heuristic,N,DNA
-2011,333,hashing,seed,N,Local,Y,DNA
-2011,107,hashing,seed,N,Global,N,DNA
-2011,112,BWT-FM,seed,N,Non-DP heuristic,N,RNA-Seq
-2011,880,hashing,seed,N,Global,N,DNA
-2011,15,hashing,seed,N,Non-DP heuristic,N,DNA
-2011,480,suffix array,seed,N,Local,N,DNA
-2012,29,BWT-ST,seed,N,hamming distance,N,DNA
-2012,504,BWT-FM,seed,N,Global,Y,DNA
-2012,13248,BWT-FM,Backward Search,N,Local & Global,N,DNA
-2012,65,BWT-FM,Backward Search,N,Hamming Distance,N,Bisulfite
-2012,344,BWT-FM,Backward Search,N,banded Myres bit vector,N,DNA
-2012,72,hashing,chain of seeds,N,NA,N,RNA-Seq
-2012,35,hashing,seed,Y,Local,N,RNA-Seq
-2012,101,hashing,seed,N,banded Myres bit vector,N,DNA
-2012,46,hashing,seed,N,Global,N,DNA
-2012,59,hashing,seed,N,banded Myres bit vector,N,DNA
-2012,58,hashing,seed,N,Global,N,DNA
-2012,44,hashing,seed,N,Local,N,DNA
-2013,155,BWT-FM,Backward Search,Y,Local & Global,N,Bisulfite
-2013,1825,BWT-FM,chain of seeds,N,Local & Global,N,DNA
-2013,60,BWT-FM,seed,N,Non-DP heuristic,N,RNA-Seq
-2013,77,suffix tree,Backward Search,N,banded Myres bit vector,N,DNA
-2013,132,hashing,seed,N,Local & Global,N,DNA
-2013,18,hashing,seed,N,Hamming Distance,N,DNA
-2013,6021,suffix array,seed,N,Local,N,RNA-Seq
-2013,775,hashing,seed,N,Local,N,RNA-Seq
-2013,6072,BWT-FM,seed,Y,Local & Global,N,RNA-Seq
-2014,37,BWT-FM,Backward Search,Y,Local,N,DNA
-2014,41,BWT-FM,seed,N,Local & Semi-Global,N,DNA
-2014,20,hashing,seed,N,Semi-Global,N,DNA
-2014,20,suffix array,seed,N,Local,N,DNA
-2014,17,BWT-FM,Backward Search,Y,Local,N,RNA-Seq
-2014,216,hashing,seed,N,Local,N,DNA
-2014,37,hashing,seed,N,Hamming Distance,N,DNA
-2015,22,BWT-FM,Backward Search,Y,Based on the wrapper,N,RNA-Seq
-2015,1611,BWT-FM,Backward Search,N,hamming distance,N,RNA-Seq
-2015,73,BWT-FM,Backward Search,N,hamming distance,N,DNA
-2016,5,hashing,chain of seeds,N,Global,N,DNA
-2016,7,hashing,seed,N,hamming distance,N,DNA
-2016,13,hashing,seed ,N,Local,N,DNA
-2016,172,hashing,seed,N,Global,N,DNA
-2016,127,hashing,seed,N,Semi-Global,N,DNA
-2017,3,BWT-FM,Backward Search,N,Global,N,RNA-Seq
-2018,153,hashing,seed,N,Global,N,DNA/RNA-Seq
-2018,71,hashing,seed,N,Local,N,DNA
-2018,,BWT-FM,seed,N,Global,N,DNA
-2018,3,hashing,seed,N,Local,N,DNA/RNA-Seq
-2019,,hashing,seed,N,Local,N,RNA-Seq
+,Year_of_publication,Aligner,URL,Citation,Number_of_citations,Indexing_algorithm,global_alignment_algorithm,wrapper,wrapper_of the original tool,local,Pairwise_alignment (DP-based?),fix length seed,hybrid seeding (search for keyword variable),spaced seed (search for spaced or gapped),chain_of_seeds,Technology,email - first author,email - last author,Verified
+1,2001,SSAHA,https://www.sanger.ac.uk/science/tools/ssaha,SSAHA: a fast search method for large DNA databases.,1093,hashing,seed,N,,hamming distance,Y,Y,N,N,N,DNA,zn1@sanger.ac.uk,mullikin@mail.nih.gov,base-by-base alignment
+2,2002,Blat,https://genome.ucsc.edu/cgi-bin/hgBlat,BLAT—the BLAST-like alignment tool,6935,hashing,seed,N,,Non-DP heuristic,N,Y,N,N,Y,DNA,kent@soe.ucsc.edu,------,"No hamming distance, it keeps increasing the size of the seeds until getting a mismatch. it allows a gap of size 5 between each two seed chain. "
+3,2003,BLASTZ,https://www.bx.psu.edu/miller_lab/,Human–Mouse Alignments with BLASTZ,1339,hashing,seed,Y,"A wrapper of PipMaker—A Web Server for Aligning Two Genomic DNA Sequences and Gapped BLAST and PSI-BLAST: a new generation of protein database search programs.
+",SW,Y,Y,N,N,N,DNA,webb@bio.cse.psu.edu,wcm2@psu.edu,"They change the alignment scoring of BlastZ in ""PipMaker—A Web Server for Aligning Two Genomic DNA Sequences"" to increase the penality of gaps"
+4,2005,C4,NA,Automated generation of heuristics for biological sequence comparison,1138,hashing,seed,N,,"hamming distance, SW, and NW",Y,Y,N,N,N,DNA,ensembl-helpdesk@ebi.ac.uk,birney@ebi.ac.uk,"If you check Fig 2, this only performs alignment between the exact matches. it can perform several types of alignment though"
+5,2005,GMAP,https://github.com/juliangehring/GMAP-GSNAP,GMAP: a genomic mapping and alignment program for mRNA and EST sequences,1139,hashing,seed,N,,NW,Y,N,Y,N,Y,DNA,twu@gene.com,,
+6,2008,BWT-SW,https://github.com/mruffalo/bwt-sw,Compressed indexing and local alignment of DNA,142,BWT-FM,Backward Search,N,,Local,Y,Y,N,N,N,DNA,twlam @ cs.hku.hk,smyiucs.hku.hk,
+7,2008,MAQ,http://maq.sourceforge.net/maq-man.shtml,Mapping Short DNA sequencing reads and calling variants using mapping quality scores,2782,hashing,seed,N,,Local,Y,Y,N,Y,N,DNA,me@liheng.org,richard.durbin@sanger.ac.uk,SW
+8,2008,QPALMA,http://www.raetschlab.org/suppl/qpalma,Optimal spliced alignments of short sequence reads,173,suffix array,seed,Y,vmatch,Local,Y,Y,N,N,N,RNA-Seq,raetsch@inf.ethz.ch,raetsch@inf.ethz.ch,SW
+9,2008,RMAP,https://github.com/smithlabcode/rmap,Using quality scores and longer reads improves accuracy of solexa read mapping. Updates to the RMAP short-read mapping software.,380,hashing,seed,N,,hamming distance,N,Y,N,N,N,DNA,andrewds@usc.edu,mzhang@cshl.org ,RMAP does not consider insertions or deletions (indels)
+10,2008,SeqMap,http://www-personal.umich.edu/~jianghui/seqmap/,SeqMap: Mapping Massive Amount of Oligonucleotides to the Genome,402,hashing,seed,N,,Non-DP heuristic,N,Y,N,N,N,DNA,jianghui@umich.edu,whwong@stanford.edu,"it shifts the seeds until they get matched, no dynamic programming, up to 5 mismatches"
+11,2008,SOAP,https://github.com/ShujiaHuang/SOAPaligner,SOAP: short oligonucleotide alignment program,1939,hashing,seed,N,,Non-DP heuristic,N,Y,N,N,N,DNA,liruiqiang@gmail.com,wangjian@genomics.org.cn,up to single gap as sread length in that time is 25 bp
+12,2008,SOCS,http://socs.biology.gatech.edu/,Efficient mapping of Applied Biosystems SOLiD sequence data to a reference genome for functional genomic applications ,119,hashing,seed,N,,Rabin–Karp algorithm,N,Y,N,N,N,DNA,brian.ondov@nih.gov,nickbergman@gatech.edu,
+13,2008,ZOOM,http://www.bioinfor.com/zoom-1-3-gui-release-next-gen-seq/,ZOOM! Zillions of oligos mapped,261,hashing,seed,N,,SW,Y,Y,N,Y,N,DNA,,,Smith-Waterman
+14,2009,BFAST,https://sourceforge.net/p/bfast/bfast/ci/master/tree/,BFAST: An Alignment Tool for Large Scale Genome Resequencing,596,hashing,seed,N,,SW,Y,N,Y,Y,N,DNA,nils@fulcrumgenomics.com,snelson@ucla.edu,
+15,2009,Bowtie,http://bowtie-bio.sourceforge.net/manual.shtml,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,13637,BWT-FM,Backward Search,N,,hamming distance,N,Y,N,N,N,DNA,langmea@cs.jhu.edu,,"Bowtie does not yet support paired-end alignment or alignments with insertions or deletions,"
+16,2009,BRAT,http://compbio.cs.ucr.edu/brat/,BRAT: bisulfite-treated reads analysis tool,62,hashing,seed,N,,hamming distance,N,Y,N,N,N,Bisulfite,elenah@cs.ucr.edu,stefano.lonardi@ucr.edu,
+17,2009,BSMAP,https://github.com/genome-vendor/bsmap,BSMAP: whole genome bisulfite sequence MAPping program,475,hashing,seed,N,,hamming distance,N,Y,N,N,N,Bisulfite,,wl1@bcm.edu,
+18,2009,BWA,https://github.com/lh3/bwa,Fast and accurate short read alignment with Burrows–Wheeler transform,17693,BWT-FM,Backward Search,N,,SW,Y,N,Y,N,N,DNA,me@liheng.org,richard.durbin@sanger.ac.uk,SW
+19,2009,CloudBurst,https://sourceforge.net/projects/cloudburst-bio/,CloudBurst: highly sensitive read mapping with MapReduce,735,hashing,seed,N,,Landau-Vishkin,Y,Y,N,N,N,DNA,mschatz@cshl.edu,--------,
+20,2009,GenomeMapper,http://1001genomes.org/software/genomemapper_singleref.html,Simultaneous alignment of short reads against multiple genomes,182,hashing,seed,N,,NW,Y,Y,N,N,Y,DNA,schneeberger@mpipz.mpg.de,detlef.weigel@tuebingen.mpg.de,Needleman-Wunsch
+21,2009,GNUMAP,https://github.com/byucsl/gnumap,The GNUMAP algorithm: unbiased probabilistic mapping of oligonucleotides from next-generation sequencing,85,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,nathanlclement@gmail.com ,wej@bu.edu,Needleman–Wunsch
+22,2009,MOM,https://github.com/hugheaves/MOM,MOM: maximum oligonucleiotide mapping,52,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,hleaves@vcu.edu,,Smith-Waterman
+23,2009,mrFAST,https://github.com/BilkentCompGen/mrfast,Personalized Copy-Number and Segmental Duplication Maps using Next-Generation Sequencing,684,hashing,seed,N,,Semi-global,Y,Y,N,N,N,DNA,calkan@cs.bilken.edu.tr,eee@gs.washington.edu,levenshein distance
+24,2009,PASS,http://pass.cribi.unipd.it/cgi-bin/pass.pl, PASS: a program to align short sequences,148,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,pass@cribi.unipd.it,,Needleman–Wunsch
+25,2009,PerM,https://code.google.com/archive/p/perm/downloads,PerM: efficient mapping of short sequencing reads with periodic full sensitive spaced seeds,124,hashing,seed,N,,hamming distance,N,Y,N,Y,Y,DNA,yanghoch@usc.edu,tingchen@usc.edu,cseed
+26,2009,RazerS,http://www.seqan.de/projects/razers.html,RazerS—fast read mapping with sensitivity control,177,hashing,seed,N,RazerS (extention),banded Myres bit vector,Y,Y,N,N,N,DNA,weese@inf.fu-berlin.de,knut.reinert@fu-berlin.de,banded Myres bit vector
+27,2009,segemehl,https://www.bioinf.uni-leipzig.de/Software/segemehl/,"Fast Mapping of Short Sequences with Mismatches, Insertions and Deletions Using Index Structures",421,suffix array,Backward Search,N,,SW,Y,N,Y,N,N,DNA,steve@bioinf.uni-leipzig.de,jo,
+28,2009,SHRiMP,http://compbio.cs.toronto.edu/shrimp/,SHRiMP: Accurate Mapping of Short Color-space Reads,609,hashing,seed,N,,SW,Y,N,Y,N,Y,DNA,brudno@cs.toronto.edu,joerg.hackermueller@izi.fraunhofer.de,SW
+29,2009,Slider,http://www.bcgsc.ca/platform/bioinfo/software/slider,Slider—maximum use of probability information for alignment of short sequence reads and SNP detection,65,hashing,seed,N,,sparse dynamic programming,Y,Y,N,N,N,DNA,nmalhis@bcgsc.ca,sjones@bcgsc.ga,sparse dynamic programming
+30,2009,SOAP2,https://github.com/ShujiaHuang/SOAPaligner,SOAP2: an improved ultrafast tool for short read alignment,2826,BWT-FM,seed,N,,SW,Y,Y,N,N,N,DNA,liruiqiang@gmail.com,,
+31,2009,TopHat,https://ccb.jhu.edu/software/tophat/index.shtml,TopHat: discovering splice junctions with RNA-Seq,8395,BWT-FM,seed,Y,Bowtie ,hamming distance,N,Y,N,N,N,RNA-Seq,coletrap@uw.edu,,
+32,2010,BS-Seeker,https://github.com/BSSeeker/BSseeker2,BS Seeker: precise mapping for bisulfite sequencing,213,BWT-FM,Backward Search,Y,Bowtie (wrapper),hamming distance,N,Y,N,N,N,Bisulfite,paoyang@gate.sinica.edu.tw,matteop@mcdb.ucla.edu,
+33,2010,BWA-SW,https://sourceforge.net/projects/bio-bwa/,Fast and accurate long-read alignment with Burrows–Wheeler transform,4647,BWT-FM,Backward Search,N,,SW,Y,N,Y,N,N,DNA,me@liheng.org,richard.durbin@sanger.ac.uk,Smith-Waterman
+34,2010,GSNAP,https://github.com/juliangehring/GMAP-GSNAP,Fast and SNP-tolerant detection of complex variants and splicing in short reads,1419,hashing,seed,N,,Non-DP heuristic,N,Y,N,N,N,DNA,twu@gene.com,serban.nacu@gmail.com,
+35,2010,MapSplice,https://github.com/LiuBioinfo/MapSplice,MapSplice: Accurate mapping of RNA-seq reads for splice junction discovery,774,BWT-FM,Backward Search,Y,Bowtie (wrapper),hamming distance,N,Y,N,N,N,RNA-Seq,,liuj@cs.uky.edu,
+36,2010,MicroRazerS,https://github.com/seqan/seqan/tree/master/apps/micro_razers,MicroRazerS: rapid alignment of small RNA reads,41,hashing,seed,N,RazerS (extention),hamming distance,N,Y,N,N,N,miRNA,emde@inf.fu-berlin.de,,
+37,2010,mrsFAST,https://github.com/sfu-compbio/mrsfast,mrsFast: a cache-oblivious algorithm for short-read mapping,258,hashing,seed,N,,hamming distance,N,Y,N,N,N,DNA,faraz.hach@ubc.ca,cenksahi@indiana.edu,
+38,2010,Slider II,,High quality SNP calling using Illumina data at shallow coverage,60,hashing,seed,Y,Slider—maximum use of probability information for alignment of short sequence reads and SNP detection,sparse dynamic programming,Y,Y,N,N,N,DNA,nmalhis@bcgsc.ca,,
+39,2010,Smalt,https://github.com/rcallahan/smalt,https://s3.amazonaws.com/cdn.f1000.com/posters/docs/327,,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,hannes.ponstingl@sanger.ac.uk,zemin.ning@sanger.ac.uk,Smith-Waterman
+40,2010,SpliceMap,http://web.stanford.edu/group/wonglab/SpliceMap/,Detection of splice junctions from paired-end RNA-seq data by SpliceMap,335,hashing,seed,Y,Ultrafast and memory-efficient alignment of short DNA sequences to the human genome,hamming distance,N,Y,N,N,N,RNA-Seq,kinfai@stanford.edu,,It uses Bowtie for alignemnt https://github.com/jason-weirather/SpliceMap/tree/master/src
+41,2010,Supersplat,,Supersplat—spliced RNA-seq alignment,58,hashing,seed,N,,NA,N,N,Y,N,N,RNA-Seq,,info@mocklerlab.org,
+42,2010,VMATCH,http://www.vmatch.de/,The Vmatch large scale sequence analysis software,65,suffix array,seed,Y,QPALMA Optimal spliced alignments of short sequence reads,SW,Y,Y,N,N,N,DNA,lundt@zbh.uni-hamburg.de,,
+,2010,GASSST,,GASSST: global alignment short sequence search tool,92,hashing,seed,N,,Semi-global,Y,Y,N,Y,Y,DNA,,,
+43,2011,Bismark,https://www.bioinformatics.babraham.ac.uk/projects/bismark/,,1332,BWT-FM,Backward Search,Y,bowtie,hamming distance,N,Y,N,N,N,Bisulfite,felix.krueger@bbsrc.ac.uk,,
+44,2011,DynMap,can't be reached,DynMap: mapping short reads to multiple related genomes,2,hashing,seed,N,,Non-DP heuristic,N,Y,N,N,N,DNA,Tomas.Flouri@fit.cvut.cz,solon.pissis@kcl.ac.uk,This tool handles the alignment for updated portions of reference based on the alignment information of the pre-updated portions
+45,2011,SHRiMP2,http://compbio.cs.toronto.edu/shrimp/,SHRiMP2: Sensitive yet Practical Short Read Mapping,333,hashing,seed,N,,SW,Y,Y,N,Y,Y,DNA,matei@cs.toronto.edu,,Smith-Waterman
+46,2011,SNAP,http://snap.cs.berkeley.edu/,Faster and More Accurate Sequence Alignment with SNAP,107,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,matei@cs.stanford.edu,,they call the verification step as local alignment but it uses ukkonen algorithm 
+47,2011,SOAPSplice,http://soap.genomics.org.cn/soapsplice.html,SOAPsplice: genome-wide ab initio detection of splice junctions from RNA-Seq data,112,BWT-FM,seed,N,,Non-DP heuristic,N,Y,N,N,N,RNA-Seq,,smyiu@cs.hku.hk,we can call the alignment method as segmentation as it keeps splitting the seed into subseeds to allow mismatches
+48,2011,Stampy,https://www.well.ox.ac.uk/project-stampy,Stampy: a statistical algorithm for sensitive and fast mapping of Illumina sequence reads.,880,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,gerton.lunter@well.ox.ac.uk,,Needleman-Wunsch https://genome.cshlp.org/content/suppl/2010/10/27/gr.111120.110.DC2/Supplementary_information.pdf
+49,2011,X-Mate,http://grimmond.imb.uq.edu.au/X-MATE/,X-MATE: a flexible system for mapping short read data,15,hashing,seed,N,ISAS (http://www.imagenix.com),Non-DP heuristic,N,N,Y,N,N,DNA,,,"In this strategy, tags are first mapped at full length, and then if unaligned, truncated then mapped again. "
+50,2011,LAST,http://home.cc.umanitoba.ca/~psgendb/doc/last/last.html,Adaptive seeds tame genomic sequence comparison.,480,suffix array,seed,N,,SW,Y,N,Y,N,N,DNA,S.M.Kielbasa@lumc.nl,martin@cbrc.jp,Smith-Waterman http://last.cbrc.jp/doc/lastal.html
+51,2012,Batmis,https://code.google.com/archive/p/batmis/,BatMis: a fast algorithm for k-mismatch mapping,29,BWT-ST,seed,N,,hamming distance,N,Y,N,N,N,DNA,,ksung@comp.nus.edu.sg,
+52,2012,BLASR,https://github.com/PacificBiosciences/blasr/,Mapping single molecule sequencing reads using basic local alignment with successive refinement (BLASR): application and theory,504,BWT-FM,seed,N,,NW,Y,Y,N,N,Y,DNA,,gptesler@math.ucsd.edu,it uses  sparse dynamic programming before applying global DP
+53,2012,Bowtie2,https://github.com/BenLangmead/bowtie2,Fast gapped-read alignment with Bowtie 2,13248,BWT-FM,Backward Search,N,,SW & NW,Y,Y,N,N,N,DNA,langmea@cs.jhu.edu,,Smith-Waterman
+54,2012,BRAT-BW,http://compbio.cs.ucr.edu/brat/,BRAT-BW: efficient and accurate mapping of bisulfite-treated reads,65,BWT-FM,Backward Search,N,,hamming distance,N,N,Y,N,N,Bisulfite,elenayharris@gmail.com,stefano.lonardi@ucr.edu,
+55,2012,GEM,https://github.com/smarco/gem3-mapper,"The GEM mapper: fast, accurate and versatile alignment by filtration",344,BWT-FM,Backward Search,N,,banded Myres bit vector,Y,N,Y,N,N,DNA,santiago.marco@uab.cat,paolo.ribeca@gmail.com,
+56,2012,OSA,,OSA: a fast and accurate alignment tool for RNA-Seq,72,hashing,seed,N,,NA,N,Y,N,N,N,RNA-Seq,john.hu@omicsoft.com,,
+57,2012,Passion,https://trac.nbic.nl/passion/,PASSion: a pattern growth algorithm-based pipeline for splice junction detection in paired-end RNA-Seq data,35,hashing,seed,Y,SMALT (wrapper),SW,Y,Y,N,N,Y,RNA-Seq,y.zhang@lumc.nl,k.ye@umail.leidenuniv.nl,Smith-Waterman
+58,2012,RazerS3,https://github.com/seqan/seqan/tree/master/apps/razers3,"RazerS 3: Faster, fully sensitive read mapping",101,hashing,seed,N,RazerS (extention),banded Myres bit vector,Y,N,Y,N,N,DNA,david.weese@fu-berlin.de,knut.reinert@fu-berlin.de,
+59,2012,SeqAlto,https://web.stanford.edu/group/wonglab/seqalto/,Fast and Accurate Read Alignment for Resequencing,46,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,,whwong@stanford.edu.,Needleman-wunsch
+60,2012,SplazerS,https://github.com/seqan/seqan/blob/master/apps/splazers/README,Detecting genomic indel variants with exact breakpoints in single- and paired-end sequencing data using SplazerS,59,hashing,seed,N,,banded Myres bit vector,Y,Y,N,N,N,DNA,emde@inf.fu-berlin.de,knut.reinert@fu-berlin.de,
+61,2012,WHAM,http://research.cs.wisc.edu/wham/,WHAM: A High-Throughput Sequence Alignment Method,58,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,yinan@cs.wisc.edu,jignesh@cs.wisc.edu,Needleman-wunsch
+62,2012,YAHA,https://github.com/GregoryFaust/yaha,YAHA: fast and flexible long-read alignment with optimal breakpoint detection.,44,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,imh4y@virginia.edu,imh4y@virginia.edu,
+63,2013,BS-Seeker2,https://github.com/BSSeeker/BSseeker2,BS-Seeker2: a versatile aligning pipeline for bisulfite sequencing data,155,BWT-FM,Backward Search,Y,Bowtie2 (wrapper),SW & NW,Y,Y,N,N,N,Bisulfite,guoweilong@cau.edu.cn,matteop@mcdb.ucla.edu,
+64,2013,BWA-MEM,https://github.com/lh3/bwa,"Aligning sequence reads, clone sequences and assembly contigs with BWA-MEM",1825,BWT-FM,seed,N,,SW & NW,Y,N,Y,N,Y,DNA,me@liheng.org,-------,
+65,2013,CRAC,http://crac.gforge.inria.fr/,CRAC: an integrated approach to the analysis of RNA-seq reads,60,BWT-FM,seed,N,,Non-DP heuristic,N,Y,N,N,N,RNA-Seq,nicolas.philippe@seqone.fr, Eric.Rivals@lirmm.fr,
+66,2013,Masai,http://www.seqan.de/projects/masai,Fast and accurate read mapping with aproximate seeds and multiple backtracking,77,suffix tree,Backward Search,N,,banded Myres bit vector,Y,N,Y,N,N,DNA,enrico.siragusa@fu-berlin.de,knut.reinert@fu-berlin.de,
+67,2013,NextGenMap,http://cibiv.github.io/NextGenMap/,NextGenMap: fast and accurate read mapping in highly polymorphic genomes,132,hashing,seed,N,,SW & NW,Y,Y,N,N,N,DNA,Fritz.Sedlazeck@bcm.edu,arndt.von.haeseler@univie.ac.at,
+68,2013,SRmapper,http://www.umsl.edu/~wongch/software.html,SRmapper: a fast and sensitive genome-hashing alignment tool,18,hashing,seed,N,,hamming distance,N,Y,N,N,N,DNA,,wongch@msx.umsl.edu,
+69,2013,STAR,https://github.com/alexdobin/STAR,STAR: ultrafast universal RNA-seq aligner,6021,suffix array,seed,N,,SW,Y,N,Y,N,N,RNA-Seq,dobin@cshl.edu,gingeras@cshl.edu,
+70,2013,Subread,http://subread.sourceforge.net/,"The Subread aligner: fast, accurate and scalable read mapping by seed-and-vote.",775,hashing,seed,N,,SW,Y,Y,N,Y,N,RNA-Seq,,shi@wehi.edu.au,
+71,2013,TopHat2,https://ccb.jhu.edu/software/tophat/index.shtml,"TopHat2: accurate alignment of transcriptomes in the presence of insertions, deletions and gene fusions",6072,BWT-FM,seed,Y,Bowtie2,SW & NW,Y,Y,N,N,N,RNA-Seq,Daehwan.Kim@UTSouthwestern.edu,salzberg@jhu.edu,
+72,2014,BWA-PSSM,http://bwa-pssm.binf.ku.dk/,Adaptable probabilistic mapping of short reads using position specific scoring matrices,37,BWT-FM,Backward Search,Y,BWA,SW,Y,Y,N,N,N,DNA,pkerpedjiev@gmail.com,akrogh@bio.ku.dk,
+73,2014,CUSHAW3,http://cushaw3.sourceforge.net/homepage.htm#latest,CUSHAW3: Sensitive and Accurate Base-Space and Color-Space Short-Read Alignment with Hybrid Seeding,41,BWT-FM,seed,N,,SW & Semi-global,Y,Y,Y,N,N,DNA,yongchao.ly@alibaba-inc.com,bertil.schmidt@uni-mainz.de,Double alignment
+74,2014,Hobbes2,https://hobbes.ics.uci.edu/download.shtml,Improving read mapping using additional prefix grams,20,hashing,seed,N,,Semi-global,Y,Y,N,N,N,DNA,jongik@chonbuk.ac.kr,,
+75,2014,hpg-Aligner,https://github.com/opencb/hpg-aligner,Acceleration of short and long DNA read mapping without loss of accuracy using suffix array,20,suffix array,seed,N,,SW,Y,N,Y,N,N,DNA,jtarraga@cipf.es,,
+76,2014,JAGuaR,,JAGuaR: Junction Alignments to Genome for RNA-Seq Reads,17,BWT-FM,Backward Search,Y,BWA (wrapper),SW,Y,Y,N,N,N,RNA-Seq,yaron.butterfield@gmail.com,ibirol@bcgsc.ca,
+77,2014,MOSAIK,https://github.com/wanpinglee/MOSAIK,MOSAIK: A Hash-Based Algorithm for Accurate Next-Generation Sequencing Short-Read Mapping,216,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,wanping.lee@bc.edu,,
+78,2014,mrsFAST-Ultra,https://github.com/sfu-compbio/mrsfast,"mrsFast-Ultra: a compact, SNP-aware mapper for high performance sequencing applications",37,hashing,seed,N,mrsFast (extention),hamming distance,N,Y,N,N,N,DNA,fhach@sfu.ca,cenksahi@indiana.edu,
+79,2015,ContextMap 2,http://www.bio.ifi.lmu.de/ContextMap,ContextMap 2: fast and accurate context-based RNA-seq mapping,22,BWT-FM,Backward Search,Y,"bowtie, bowtie 2, or bwa, ..",SW & NW,Y,Y,N,N,N,RNA-Seq,,caroline.friedel@bio.ifi.lmu.de,
+80,2015,HISAT,http://www.ccb.jhu.edu/software/hisat/index.shtml,HISAT: a fast spliced aligner with low memory requirements,1611,BWT-FM,Backward Search,N,,hamming distance,N,Y,N,N,N,RNA-Seq,Daehwan.Kim@UTSouthwestern.edu,salzberg@jhu.edu,talked about cach misses of FM-index vs Hash table and why hash table is faster than fm-index
+81,2015,HISAT2,https://ccb.jhu.edu/software/hisat2/index.shtml,Indexing Graphs for Path Queries with Applications in Genome Research (paer they inspired from to implemenet new version),73,BWT-FM,Backward Search,N,,hamming distance,N,Y,N,N,N,DNA,Daehwan.Kim@UTSouthwestern.edu,,
+82,2016,NanoBLASTer,https://github.com/ruhulsbu/NanoBLASTer,Fast Alignment and Characterization of Oxford Nanopore Single Molecule Sequencing Reads,5,hashing,seed,N,,NW,Y,Y,N,N,Y,DNA,moamin@cs.stonybrook.edu,mschatz@cshl.edu,
+83,2016,ERNE,http://erne.sourceforge.net/,"Fast, accurate, and lightweight analysis of BS-treated reads with ERNE 2",7,hashing,seed,N,,hamming distance,N,Y,N,N,N,DNA,nicola.prezza@gmail.com,,
+84,2016,rHAT,https://github.com/dfguan/rHAT,rHAT: fast alignment of noisy long reads with regional hashing.,13,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,,,
+85,2016,minimap,https://github.com/lh3/minimap,Minimap and miniasm: fast mapping and de novo assembly for noisy long sequences,172,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,me@liheng.org,,
+86,2016,GraphMap,https://github.com/isovic/graphmap,Fast and sensitive mapping of nanopore sequencing reads with GraphMap,127,hashing,seed,N,,Semi-global,Y,Y,N,Y,N,DNA,,nagarajann@gis.a-star.edu.sg,
+88,2017,DART,https://github.com/hsinnan75/DART,DART: a fast and accurate RNA-seq mapper with a partitioning strategy,3,BWT-FM,Backward Search,N,,NW,Y,N,Y,N,N,RNA-Seq,,hsu@iis.sinica.edu.tw,
+89,2018,minimap2,https://github.com/lh3/minimap2,Minimap2: pairwise alignment for nucleotide sequences,153,hashing,seed,N,,NW,Y,Y,N,N,N,DNA/RNA-Seq,me@liheng.org,NA,
+90,2018,NGMLR,https://github.com/philres/ngmlr,Accurate detection of complex structural variations using single-molecule sequencing,71,hashing,seed,N,,SW,Y,Y,N,N,N,DNA,Fritz.Sedlazeck@bcm.edu,,
+91,2018,lordFAST,https://github.com/vpc-ccg/lordfast,lordFAST: sensitive and Fast Alignment Search Tool for LOng noisy Read sequencing Data,2,hashing,seed,N,,NW,Y,Y,N,N,N,DNA,ehaghshe@sfu.ca,faraz.hach@ubc.ca,
+92,2018,Magic-BLAST,https://github.com/ncbi/magicblast,"Magic-BLAST, an accurate DNA and RNA-seq aligner for long and short reads",3,hashing,seed,N,,SW,Y,Y,N,N,N,DNA/RNA-Seq,,madden@ncbi.nlm.nih.gov,
+93,2019,deSALT,https://github.com/hitbc/deSALT,deSALT: fast and accurate long transcriptomic read alignment with de Bruijn graph-based index,0,hashing,seed,N,,SW,Y,Y,N,N,N,RNA-seq,,,
