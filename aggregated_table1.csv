@@ -1,0 +1,31 @@
+"","Index","Global","Pairwise","n"
+"1","BWT-FM","Backward Search","Banded Myers Bit Vector",1
+"2","BWT-FM","Backward Search","Hamming Distance",7
+"3","BWT-FM","Backward Search","Local",1
+"4","BWT-FM","Backward Search","NW",1
+"5","BWT-FM","Backward Search","SW",4
+"6","BWT-FM","Backward Search","SW & NW",3
+"7","BWT-FM","Seed","Hamming Distance",1
+"8","BWT-FM","Seed","Non-DP Heuristic",2
+"9","BWT-FM","Seed","NW",1
+"10","BWT-FM","Seed","SW",1
+"11","BWT-FM","Seed","SW & NW",2
+"12","BWT-FM","Seed","SW & Semi-Global",1
+"13","BWT-ST","Seed","Hamming Distance",1
+"14","Hashing","Seed","Banded Myers Bit Vector",3
+"15","Hashing","Seed","Hamming Distance",11
+"16","Hashing","Seed","Hamming Distance, SW, and NW",1
+"17","Hashing","Seed","Landau-Vishkin",1
+"18","Hashing","Seed","Local",1
+"19","Hashing","Seed","Non-DP Heuristic",6
+"20","Hashing","Seed","NW",12
+"21","Hashing","Seed","Rabin–Karp Algorithm",1
+"22","Hashing","Seed","Semi-Global",4
+"23","Hashing","Seed","Sparse Dynamic Programming",2
+"24","Hashing","Seed","SW",15
+"25","Hashing","Seed","SW & NW",1
+"26","Hashing","Seed",NA,2
+"27","Suffix Array","Backward Search","SW",1
+"28","Suffix Array","Seed","Local",1
+"29","Suffix Array","Seed","SW",4
+"30","Suffix Tree","Backward Search","Banded Myers Bit Vector",1

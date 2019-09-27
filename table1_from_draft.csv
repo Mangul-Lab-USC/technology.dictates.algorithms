@@ -1,0 +1,94 @@
+Year,Aligner,Application,Indexing,Global Alignment,Pairwise Alignment,Wrapper
+2001,SSAHA,DNA,Hashing,Seed,Global,N
+2002,Blat,DNA,Hashing,Seed,Non-DP Heuristic,N
+2003,BLASTZ,DNA,Hashing,Seed,Local,Y
+2005,C4,DNA,Hashing,Seed,"Hamming, Local, and Global Alignment",N
+2005,GMAP,DNA,Hashing,Seed,Global,N
+2008,BWT-SW,DNA,BWT-FM,Backward Search,Local,N
+2008,MAQ,DNA,Hashing,Seed,Local,N
+2008,RMAP,DNA,Hashing,Seed,Hamming Distance,N
+2008,SeqMap,DNA,Hashing,Seed,Non-DP Heuristic,N
+2008,SOAP,DNA,Hashing,Seed,Non-DP Heuristic,N
+2008,SOCS,DNA,Hashing,Seed,Rabin–Karp Algorithm,N
+2008,ZOOM,DNA,Hashing,Seed,Local,N
+2009,BFAST,DNA,Hashing,Seed,Local,N
+2009,Bowtie,DNA,BWT-FM,Backward Search,Hamming Distance,N
+2009,BWA,DNA,BWT-FM,Backward Search,Local,N
+2009,CloudBurst,DNA,Hashing,Seed,Landau-Vishkin,N
+2009,GenomeMapper,DNA,Hashing,Seed,Global,N
+2009,GNUMAP,DNA,Hashing,Seed,Global,N
+2009,MOM,DNA,Hashing,Seed,Local,N
+2009,mrFAST,DNA,Hashing,Seed,Semi-Global,N
+2009,PASS,DNA,Hashing,Seed,Global,N
+2009,PerM,DNA,Hashing,Seed,Hamming Distance,N
+2009,RazerS,DNA,Hashing,Seed,Banded Myers Bit Vector,N
+2009,segemehl,DNA,Suffix Array,Backward Search,Local,N
+2009,SHRiMP,DNA,Hashing,Seed,Local,N
+2009,Slider,DNA,Hashing,Seed,Sparse Dynamic Programming,N
+2009,SOAP2,DNA,BWT-FM,Seed,Local,N
+2010,BWA-SW,DNA,BWT-FM,Backward Search,Local,N
+2010,GSNAP,DNA,Hashing,Seed,Non-DP Heuristic,N
+2010,mrsFAST,DNA,Hashing,Seed,Hamming Distance,N
+2010,Slider II,DNA,Hashing,Seed,Sparse Dynamic Programming,Y
+2010,Smalt,DNA,Hashing,Seed,Local,N
+2010,VMATCH,DNA,Suffix Array,Seed,Local,Y
+2010,GASSST,DNA,Hashing,Seed,Semi-Global,N
+2011,DynMap,DNA,Hashing,Seed,Non-DP Heuristic,N
+2011,SHRiMP2,DNA,Hashing,Seed,Local,N
+2011,SNAP,DNA,Hashing,Seed,Global,N
+2011,Stampy,DNA,Hashing,Seed,Global,N
+2011,X-Mate,DNA,Hashing,Seed,Non-DP Heuristic,N
+2011,LAST,DNA,Suffix Array,Seed,Local,N
+2012,Batmis,DNA,BWT-ST,Seed,Hamming Distance,N
+2012,BLASR,DNA,BWT-FM,Seed,Global,N
+2012,Bowtie2,DNA,BWT-FM,Backward Search,Local & Global,N
+2012,GEM,DNA,BWT-FM,Backward Search,Banded Myers Bit Vector,N
+2012,RazerS3,DNA,Hashing,Seed,Banded Myers Bit Vector,N
+2012,SeqAlto,DNA,Hashing,Seed,Global,N
+2012,SplazerS,DNA,Hashing,Seed,Banded Myers Bit Vector,N
+2012,WHAM,DNA,Hashing,Seed,Global,N
+2012,YAHA,DNA,Hashing,Seed,Local,N
+2013,BWA-MEM,DNA,BWT-FM,Chain of Seeds,Local & Global,N
+2013,Masai,DNA,Suffix Tree,Backward Search,Banded Myers Bit Vector,N
+2013,NextGenMap,DNA,Hashing,Seed,Local & Global,N
+2013,SRmapper,DNA,Hashing,Seed,Hamming Distance,N
+2014,BWA-PSSM,DNA,BWT-FM,Backward Search,Local,Y
+2014,CUSHAW3,DNA,BWT-FM,Seed,Local & Semi-Global,N
+2014,Hobbes2,DNA,Hashing,Seed,Semi-Global,N
+2014,hpg-Aligner,DNA,Suffix Array,Seed,Local,N
+2014,MOSAIK,DNA,Hashing,Seed,Local,N
+2014,mrsFAST-Ultra,DNA,Hashing,Seed,Hamming Distance,N
+2015,HISAT2,DNA,BWT-FM,Backward Search,Hamming Distance,N
+2016,NanoBLASTer,DNA,Hashing,Chain of Seeds,Global,N
+2016,ERNE,DNA,Hashing,Seed,Hamming Distance,N
+2016,rHAT,DNA,Hashing,Seed,Local,N
+2016,minimap,DNA,Hashing,Seed,Global,N
+2016,GraphMap,DNA,Hashing,Seed,Semi-Global,N
+2018,NGMLR,DNA,Hashing,Seed,Local,N
+2018,lordFAST,DNA,Hashing,Seed,Global,N
+2018,minimap2,DNA/RNA-Seq,Hashing,Seed,Global,N
+2018,Magic-BLAST,DNA/RNA-Seq,Hashing,Seed,Local,N
+2010,MicroRazerS,miRNA,Hashing,Seed,Hamming Distance,N
+2008,QPALMA,RNA-Seq,Suffix Array,Seed,Local,Y
+2009,TopHat,RNA-Seq,BWT-FM,Backward Search,Hamming Distance,Y
+2010,MapSplice,RNA-Seq,BWT-FM,Backward Search,Hamming Distance,Y
+2010,SpliceMap,RNA-Seq,Hashing,Seed,Hamming Distance,Y
+2010,Supersplat,RNA-Seq,Hashing,Seed,NA,N
+2011,SOAPSplice,RNA-Seq,BWT-FM,Seed,Non-DP Heuristic,N
+2012,OSA,RNA-Seq,Hashing,Chain of Seeds,NA,N
+2012,Passion,RNA-Seq,Hashing,Seed,Local,Y
+2013,CRAC,RNA-Seq,BWT-FM,Seed,Non-DP Heuristic,N
+2013,STAR,RNA-Seq,Suffix Array,Seed,Local,N
+2013,Subread,RNA-Seq,Hashing,Seed,Local,N
+2013,TopHat 2,RNA-Seq,BWT-FM,Seed,Local & Global,Y
+2014,JAGuaR,RNA-Seq,BWT-FM,Backward Search,Local,Y
+2015,ContextMap 2,RNA-Seq,BWT-FM,Backward Search,"Based on the Wrapper, Local and Global",Y
+2015,HISAT,RNA-Seq,BWT-FM,Backward Search,Hamming Distance,N
+2017,DART,RNA-Seq,BWT-FM,Backward Search,Global,N
+2019,deSALT,RNA-seq,Hashing,Seed,Local,N
+2009,BRAT,BS-Seq,Hashing,Seed,Hamming Distance,N
+2009,BSMAP,BS-Seq,Hashing,Seed,Hamming Distance,N
+2010,BS-Seeker,BS-Seq,BWT-FM,Backward Search,Hamming Distance,Y
+2011,Bismark,BS-Seq,BWT-FM,Backward Search,Hamming Distance,Y
+2012,BRAT-BW,BS-Seq,BWT-FM,Backward Search,Hamming Distance,N
+2013,BS-Seeker2,BS-Seq,BWT-FM,Backward Search,Local & Global,Y

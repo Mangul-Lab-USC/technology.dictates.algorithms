@@ -1,0 +1,31 @@
+"","Index","Global","Pairwise","n"
+"1","BWT-FM","Backward Search","Banded Myers Bit Vector",1
+"2","BWT-FM","Backward Search","Based on the Wrapper, Local and Global",1
+"3","BWT-FM","Backward Search","Global",1
+"4","BWT-FM","Backward Search","Hamming Distance",8
+"5","BWT-FM","Backward Search","Local",5
+"6","BWT-FM","Backward Search","Local & Global",2
+"7","BWT-FM","Chain of Seeds","Local & Global",1
+"8","BWT-FM","Seed","Global",1
+"9","BWT-FM","Seed","Local",1
+"10","BWT-FM","Seed","Local & Global",1
+"11","BWT-FM","Seed","Local & Semi-Global",1
+"12","BWT-FM","Seed","Non-DP Heuristic",2
+"13","BWT-ST","Seed","Hamming Distance",1
+"14","Hashing","Chain of Seeds","Global",1
+"15","Hashing","Chain of Seeds",NA,1
+"16","Hashing","Seed","Banded Myers Bit Vector",3
+"17","Hashing","Seed","Global",12
+"18","Hashing","Seed","Hamming Distance",10
+"19","Hashing","Seed","Hamming, Local, and Global Alignment",1
+"20","Hashing","Seed","Landau-Vishkin",1
+"21","Hashing","Seed","Local",16
+"22","Hashing","Seed","Local & Global",1
+"23","Hashing","Seed","Non-DP Heuristic",6
+"24","Hashing","Seed","Rabin–Karp Algorithm",1
+"25","Hashing","Seed","Semi-Global",4
+"26","Hashing","Seed","Sparse Dynamic Programming",2
+"27","Hashing","Seed",NA,1
+"28","Suffix Array","Backward Search","Local",1
+"29","Suffix Array","Seed","Local",5
+"30","Suffix Tree","Backward Search","Banded Myers Bit Vector",1
