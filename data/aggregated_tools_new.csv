@@ -1,0 +1,41 @@
+"Index","Seeding","Pairwise","n"
+"BWT-FM","NNN","Banded Myers Bit Vector",1
+"BWT-FM","NNN","HD",1
+"BWT-FM","NNN","NW",1
+"BWT-FM","NNN","SW",2
+"BWT-FM","NNN","SW & NW",1
+"BWT-FM","YNN","HD",7
+"BWT-FM","YNN","Non-DP Heuristic",2
+"BWT-FM","YNN","SW",4
+"BWT-FM","YNN","SW & NW",4
+"BWT-FM","YNN","SW & Semi-Global",1
+"BWT-FM","YNY","NW",1
+"BWT-ST","YNN","HD",1
+"Hashing","NNN","Banded Myers Bit Vector",1
+"Hashing","NNN","Non-DP Heuristic",1
+"Hashing","NNN",NA,1
+"Hashing","NNY","NW",1
+"Hashing","NNY","SW",1
+"Hashing","NYN","SW",1
+"Hashing","YNN","Banded Myers Bit Vector",2
+"Hashing","YNN","HD",10
+"Hashing","YNN","Landau-Vishkin",1
+"Hashing","YNN","Non-DP Heuristic",4
+"Hashing","YNN","NW",10
+"Hashing","YNN","Rabin-Karp Algorithm",1
+"Hashing","YNN","Semi-Global",2
+"Hashing","YNN","Sparse DP",3
+"Hashing","YNN","SW",10
+"Hashing","YNN","SW & NW",1
+"Hashing","YNN",NA,1
+"Hashing","YNY","Non-DP Heuristic",1
+"Hashing","YNY","NW",1
+"Hashing","YYN","Semi-Global",1
+"Hashing","YYN","SW",3
+"Hashing","YYY","HD",1
+"Hashing","YYY","Semi-Global",1
+"Hashing","YYY","SW",1
+"Suffix Array","NNN","SW",4
+"Suffix Array","YNN","SW",2
+"Suffix Array","YNY","SW",1
+"Suffix Tree","NNN","Banded Myers Bit Vector",1
